@@ -8,9 +8,7 @@ The Business Manager was also submitted to the Brightsparks Technology Awards 20
 Read the PDF files to understand how to use the program and how it was designed. Please forgive me for using Visual Basic -  it was the preferred language at my high school...
 
 **src** - contains source files  
-**install** - contains installable .exe file
-
-The program also requires a pre-configured Access database to work properly. I will push one to GitHub as soon as I find one.
+**install** - contains installable .exe file  
 
 ### Languages Used
 
