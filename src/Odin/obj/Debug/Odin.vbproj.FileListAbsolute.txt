@@ -45,3 +45,39 @@ C:\Users\William\documents\visual studio 2013\Projects\Odin\Odin\obj\Debug\Odin.
 C:\Users\William\documents\visual studio 2013\Projects\Odin\Odin\obj\Debug\Odin.Travel_Expense___Overview.resources
 C:\Users\William\documents\visual studio 2013\Projects\Odin\Odin\obj\Debug\Odin.vbprojResolveAssemblyReference.cache
 C:\Users\William\documents\visual studio 2013\Projects\Odin\Odin\bin\Debug\DataGridViewPrinter.dll
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\bin\Debug\Odin.exe.config
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.exe
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.xml
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.pdb
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.vbprojResolveAssemblyReference.cache
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.About.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.AccountManager.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.Business_Expense___New.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.Business_Expense___Overview.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.Business_Expense___View_and_Edit.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.Business_Expense_Application___Overview.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.Business_Expense_Applications___View_and_Edit.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.Business_Expensive_Application___New.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.Contact.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.Investment___Edit.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.Investment.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.Login.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.MainMenu.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.Revenues___Overview.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.Revenues___View_and_Edit.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.SearchBox.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.StatusBox.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.Resources.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.Revenues___New.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.Settings.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.SettingsVariables.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.Travel_Application___New.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.Travel_Application___Overview.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.Travel_Application___View_and_Edit.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.Travel_Expense.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.Travel_Expense___Overview.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.Wages___New.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.Wages___Overview.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.Wages___View_and_Edit.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.Revenues___New.af.resources
+C:\Users\willi\OneDrive\Documents\2016\CS\williamshen-nz\business-manager-2015\src\Odin\obj\Debug\Odin.vbproj.GenerateResource.Cache
